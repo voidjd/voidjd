@@ -1,34 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:76B900&height=190&section=header&text=VoidJD&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Game%20%26%20App%20Developer&descSize=18&descColor=76B900&descAlignY=62" alt="VoidJD" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1600&color=76B900&center=true&vCenter=true&width=520&height=30&lines=Unity+%C2%B7+Kotlin+%C2%B7+Python;Low+ping.+High+FPS.;Building+things+that+just+work." alt="Typing SVG" />
+<img src="assets/banner.svg" alt="VoidJD — Game & App Developer" width="100%" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Based_in-Russia-76B900?style=flat-square&labelColor=111111" alt="Location" />
 <img src="https://img.shields.io/badge/Focus-GameDev_%7C_Android_%7C_Networking-76B900?style=flat-square&labelColor=111111" alt="Focus" />
-<img src="https://komarev.com/ghpvc/?username=voidjd&color=76B900&style=flat-square&labelColor=111111&label=Profile+Views" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=voidjd&color=76B900&style=flat-square&labelColor=111111&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 <br>
 
-## ▍About
+![About me](https://readmes.pages.dev/text/about-me/mono/underline/color-76B900/size-28)
 
-I build games, Android apps and the infrastructure behind them.
-I like projects where performance matters: smooth frames, fast connections, clean code.
+I build games, Android apps and the networking behind them.
+The common thread is performance: smooth frames, fast connections, clean code.
 
-```yaml
-gamedev:    Unity, C# — mechanics, 3D logic, interactive systems
-mobile:     Kotlin — personal Android apps for everyday problems
-backend:    Python — Telegram bots, automation, scripts
-networking: Xray / VLESS / Reality — secure custom VPN setups
+```console
+$ cat stack.txt
+gamedev     Unity, C#           mechanics, 3D logic, interactive systems
+mobile      Kotlin              personal Android apps for everyday problems
+backend     Python              Telegram bots, automation, scripts
+network     Xray / VLESS        secure custom VPN setups
 ```
 
 <br>
 
-## ▍Stack
+![Tech stack](https://readmes.pages.dev/text/tech-stack/mono/underline/color-76B900/size-28)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42" height="42" alt="Unity" />&nbsp;&nbsp;
@@ -43,18 +42,11 @@ networking: Xray / VLESS / Reality — secure custom VPN setups
 
 <br>
 
-## ▍Currently building
+![Working on](https://readmes.pages.dev/text/working-on/mono/underline/color-76B900/size-28)
 
-**RayBox** — a self-hosted networking stack: VLESS/Reality on the edge, Python automation on the backend. Built to be stable, fast and easy to manage.
-
-<br>
-
-## ▍Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidjd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidjd&layout=compact&hide_border=true&bg_color=0D1117&title_color=76B900&text_color=C9D1D9" alt="Top languages" />
-</div>
+<a href="https://github.com/voidjd/RayBox">
+  <img src="assets/raybox.svg" alt="RayBox — self-hosted networking stack" width="100%" />
+</a>
 
 <br>
 
@@ -62,6 +54,6 @@ networking: Xray / VLESS / Reality — secure custom VPN setups
 
 **Ask me about:** Unity · Kotlin · Python · Linux · Anime
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:76B900&height=90&section=footer" alt="" width="100%" />
+<img src="assets/footer.svg" alt="Keep the ping low, keep the FPS high" width="100%" />
 
 </div>
