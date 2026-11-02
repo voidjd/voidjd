@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="VoidJD — Game & App Developer" width="100%" />
+<img src="banner.svg" alt="VoidJD — Game & App Developer" width="100%" />
 
 <br>
 
@@ -45,7 +45,7 @@ network     Xray / VLESS        secure custom VPN setups
 ![Working on](https://readmes.pages.dev/text/working-on/mono/underline/color-76B900/size-28)
 
 <a href="https://github.com/voidjd/RayBox">
-  <img src="assets/raybox.svg" alt="RayBox — self-hosted networking stack" width="100%" />
+  <img src="raybox.svg" alt="RayBox — self-hosted networking stack" width="100%" />
 </a>
 
 <br>
@@ -54,6 +54,6 @@ network     Xray / VLESS        secure custom VPN setups
 
 **Ask me about:** Unity · Kotlin · Python · Linux · Anime
 
-<img src="assets/footer.svg" alt="Keep the ping low, keep the FPS high" width="100%" />
+<img src="footer.svg" alt="Keep the ping low, keep the FPS high" width="100%" />
 
 </div>
