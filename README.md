@@ -36,7 +36,7 @@
 
 <div align="center">
 
-**Ask me about:** Unity · Kotlin · Python · Linux · Anime
+**Ask me about:** Unity · Kotlin · Python · Linux
 
 <img src="footer.svg" alt="Keep the ping low, keep the FPS high" width="100%" />
 
