@@ -14,31 +14,15 @@
 
 ![About me](https://readmes.pages.dev/text/about-me/mono/underline/color-76B900/size-28)
 
-I build games, Android apps and the networking behind them.
-The common thread is performance: smooth frames, fast connections, clean code.
+**Developer from Russia.** I like the things you can feel but can't see: frame time, latency, an app that starts before you blink.
 
-```console
-$ cat stack.txt
-gamedev     Unity, C#           mechanics, 3D logic, interactive systems
-mobile      Kotlin              personal Android apps for everyday problems
-backend     Python              Telegram bots, automation, scripts
-network     Xray / VLESS        secure custom VPN setups
-```
+<img src="about.svg" alt="What I do: games in Unity, Android apps in Kotlin, Python backend, self-hosted networking" width="100%" />
 
 <br>
 
 ![Tech stack](https://readmes.pages.dev/text/tech-stack/mono/underline/color-76B900/size-28)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42" height="42" alt="Unity" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" height="42" alt="Android" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-</div>
+<img src="stack.svg" alt="Tech stack: Unity, C#, Kotlin, Android, Python, Linux, Docker, Git" />
 
 <br>
 
